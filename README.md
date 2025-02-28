@@ -34,6 +34,7 @@ Download:
 Usage:
 
   On the first launch, click "Open" without entering a private key. The program will generate one for you.
+
 IMPORTANT: Once this key is generated, DO NOT LOSE IT AND KEEP IT SAFE.
   Use the Add button to store new passwords.
   Right-click on an entry to delete it.
