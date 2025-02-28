@@ -41,7 +41,7 @@ PwdMng is a password manager built with Python, ensuring secure storage through 
 ## Download:
 
 You can also download the executable file (.exe) from the following link:  
-[Download PwdMng.exe](https://mega.nz/file/SJAWQCzY#IE3GI-BdtR9uH33ZRGv2ZN9K9VM-sTASYCiZcBU5lBs)
+[Download PwdMng.exe](https://github.com/0xZKnw/PwdMng/releases/tag/PasswordManager)
 
 ## Usage:
 
