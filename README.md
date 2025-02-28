@@ -14,7 +14,7 @@ Features:
 
 Installation:
 
-  Clone the repository:
+  Clone the repository:\n
   git clone https://github.com/0xZKnw/PwdMng.git
 
   Navigate to the project folder:
